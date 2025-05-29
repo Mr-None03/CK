@@ -1,1 +1,87 @@
-# CK
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cake Factory</title>
+        <link rel="stylesheet" href="CSS.css">
+    </head>
+    <header>
+        <table style="background-color: aquamarine;" class="head1" id="head2">
+            <tr>
+                <th><img src="image1.jpg" alt="Cake animation" width="300" height="100"></th>
+                <th>
+                    <nav class="active" id="nav">
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.html">Cakes</a></li>
+                            <li><a href="About Us.html">About Us</a></li>
+                            <li><a href="Contact.html">Contact</a></li>
+                        </ul>
+                    </nav>
+                </th>
+            </tr>
+        </table>  
+    </header>
+    <body>
+        <table class="body1" id="body1.">
+            <tr>
+                <th><img src="image2.jpg" alt="cake animation" width="500" height="240"></th>
+            </tr>
+            <tr>
+                <th><p1>Delicious cakes baked with love, served with a smile.</p1></th>
+            </tr>
+        </table>
+        <h1>Cakes</h1>
+        <table class="menu" id="menu1">
+            <tr>
+                <th><img src="images.jfif.jpg" alt="chocolate delight"></th>
+                <th><img src="Vanilla-Dream_Unstyled_Grey.jpg" alt="Vanilla Dream" width="220" height="225"></th>
+            </tr>
+            <tr>
+                <th><label class="delight">Chocolate Delight</label></th>
+                <th><label class="Vanilla">Vanilla Dream</label></th>
+            </tr>
+            <tr>
+                <th><label class="deli">From R50.00</label></th>
+                <th><label class="Vani">From R45.00</label></th>
+            </tr>
+            <p></p>
+            <tr>
+                <th><img src="Red Velvet Cake with Cream Cheese Frosting.jpg" alt="Red Velvet" width="220" height="225"></th>
+                <th><img src="Cheesecake.jpg" alt="Cheesecake" width="220" height="225"></th>
+            </tr>
+            <tr>
+                <th><Label class="Red_V">Red Velvet</Label></th>
+                <th><label class="Cheesecake">Cheesecake</label></th>
+            </tr>
+            <tr>
+                <th><label class="red">From R60.00</label></th>
+                <th><label class="Cheese">From R55.00</label></th>
+            </tr>
+        </table>
+        <p1>We are a community-focused bakery offering premium cakes and local delights. Founded in 2020, our mission is to bring joy through sweet, handmade creations.</p1>
+    </body>
+    <footer>
+        <table style="background-color: aquamarine;" class="footer" id="footer1">
+            <tr><p>Cakes</p></tr>
+            <colgroup>
+                <col style="background-color: aquamarine;">
+            </colgroup>
+            <tr class="row" id="row">
+                <th>shop</th>
+                <th class="info" id="infor">Information</th>
+                <th class="Follow" id="follow1">Follow Us</th>
+            </tr>
+            <tr>
+                <td><a href="index.html">Cakes</a></td>
+                <td><a href="About Us.html">About Us</a></td>
+                <td><a href="Contact.html">Instagram</a></td>
+            </tr>
+            <tr>
+                <td><a href="">Treats</a></td>
+                <td><a href="">Contact Us</a></td>
+                <td><a href="">Facebook</a></td>
+            </tr>
+            <p>Copyright © 2025 Cake Factory | <a href="....@gmail.com">Email Us</a> | <a href="...">Follow us on Instagram</a></p>
+        </table>
+    </footer>
+</html>
